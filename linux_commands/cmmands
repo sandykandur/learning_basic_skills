@@ -1,1 +1,35 @@
 mkdir->create a new directory with a  new name
+cd-> change the directory
+touch->create empty files
+cat>filename->create new files and write the content and press CTRL+d to save the content into file
+cat file1 file2>file3-> creates new files and content of both files will be copied to new file
+cat->display  the content of file
+ls->list the content of directories
+ls *.txt-> list all the files with given extensions
+pwd->current working directory
+cp->copy a file or directory
+mv-> moves a file or directory
+head->display first 10 lines of a file
+tail-> display last 10 lines of a file
+tac-> display file content lines in reverse
+more->similar to the cat and here we can display large content by using ENTER,SPACEBAR
+id->Display id of user/group
+clear->claer the screen
+vi-> text editor to write prodrams to text
+grep-> filter the search goven pattern in the field content
+diff-> compare the content of two diff files
+ping->check the connectivity status of server
+history->review all the commands which you have entered
+host name-> display host name
+host name-i-> display host ip
+chmod-> change the usr/gropu permission to access file
+nl-> display the line number
+wc-> given number of lines/words and charaters available in the file content
+uniq-> remove duplicates of file content/ it can remove only continuous duplicates
+rmdir-> removes the specified directory (directory should be empty)
+rm-> remove file
+VI COMMANDS:-
+1) esc + : + wq!-> to save and exit
+2) esc + : + q-> to exit without saving
+3) esc + : + /qhnjid-> to fing for a particular letter or word
+
