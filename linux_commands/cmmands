@@ -1,3 +1,4 @@
+       UNIX/LINUX COMMANDS
 mkdir->create a new directory with a  new name
 cd-> change the directory
 touch->create empty files
@@ -32,4 +33,28 @@ VI COMMANDS:-
 1) esc + : + wq!-> to save and exit
 2) esc + : + q-> to exit without saving
 3) esc + : + /qhnjid-> to fing for a particular letter or word
-
+4) esc + : + set number-> to set number to every line
+5) esc + shift + G-> to go the last line in the VI editor
+Notes:-
+1) rm -R directory name:- to remove the directory
+2) tail -n 2 -f filename:- to review the last 2 lines of te file
+   tail-> last lines
+   -n -> no of lines
+   2-> number
+   -f -> file name
+   filename-> name of the file
+3) Ctrl+c -> to esc from the command
+        GITHUB/GIT BASH
+1) mkdir:- to create a new directory
+2) ls->list the content of directories
+3) touch filename-> to create a file name
+4) git add filename-> to add a file
+5) git add file1 file2-> to add multilpe files 
+6) git status-> if the color is red then it is in working area & if green then it is added and sent to working area
+7) git add ./* ->all the files which are present will be added and sent to staging area
+8) vi filename-> to write the code/description in the git bash
+9) git commit -m "description"-> to assign an unique id we use git commit
+10) git log-> it is like a history which tells which developer used the code
+11) git clone https request(URL CODE)-> which gives access to the users account
+12) git push-> to push the local repository to the git hub account
+13) git pull-> to pull the access from the github repository to make any changes in the code 
