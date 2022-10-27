@@ -1,2 +1,0 @@
-# learning_basic_skills
-Basic_Commands
